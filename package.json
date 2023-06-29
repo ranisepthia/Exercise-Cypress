@@ -1,0 +1,15 @@
+{
+  "name": "exe-cypress",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "rani",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
